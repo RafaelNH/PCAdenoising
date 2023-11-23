@@ -12,4 +12,4 @@ Henriques, Ianus, Novello, Jovicich, Jespersen, Shemesh. Efficient PCA denoising
 
 ### Data
 
-The data used for this study can be found here: https://zenodo.org/records/10149824
+The data used for this study can be found here: https://zenodo.org/records/10200469
